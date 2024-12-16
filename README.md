@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Ansh</h1>
 <h3 align="center">Aspiring data scientist skilled in programming and analytics, eager to apply machine learning to solve real-world problems</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQ8ldHtRGjt4iLHcQOW4AtmR2FvnttIotrg&s">
